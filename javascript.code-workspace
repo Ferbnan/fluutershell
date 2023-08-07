@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../javascript"
+		},
+		{
+			"path": "C:/xampp/htdocs/formulario_xamp"
+		},
+		{
+			"path": "C:/xampp/htdocs/insertphp"
+		},
+		{
+			"path": "../../javaScriptPractico"
+		},
+		{
+			"path": "C:/xampp/htdocs/formulario_CONG"
+		},
+		{
+			"path": "../../unid-broadcasting-frontend"
+		},
+		{
+			"path": "../../PythonDiscord"
+		},
+		{
+			"path": "../../pythonDisc"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript"
+	}
+}
